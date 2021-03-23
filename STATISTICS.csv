@@ -1,0 +1,23 @@
+Category,Count
+AdverseEffects,657
+AssociatedBiologicalProcess,6231
+BiologicallyActiveSubstance,7709
+Biomaterial,5726
+BiomaterialType,1543
+Cell,6839
+EffectOnBiologicalSystem,972
+ManufacturedObject,5967
+ManufacturedObjectComponent,2307
+ManufacturedObjectFeatures,4200
+MaterialProcessing,2728
+MedicalApplication,3868
+ResearchTechnique,3701
+Species,2089
+Structure,4136
+StudyType,1806
+Tissue,9997
+,
+Total Entities,70476
+Tokens,392605
+Sentences,15979
+Abstracts,1222
