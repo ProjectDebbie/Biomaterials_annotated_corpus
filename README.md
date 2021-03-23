@@ -9,7 +9,7 @@ Each abstract is individually contained as a separate file under the GATE format
 
 ![Table](STATISTICS.csv) shows statistics concerning the number of concepts corresponding to the different categories, as well as the number of total entities, sentences and tokens. 
 
-Informtion regarding the performance of the Biomaterials Annotator can be found at https://github.com/ProjectDebbie/Biomaterials_annotator.
+Information regarding the performance of the Biomaterials Annotator can be found at https://github.com/ProjectDebbie/Biomaterials_annotator.
 
 ## Authors
 
