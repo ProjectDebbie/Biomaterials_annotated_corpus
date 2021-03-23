@@ -7,7 +7,7 @@ This is the corpus has been annotated by the Biomaterials Annotator (https://git
 
 Each abstract is individually contained as a separate file under the GATE format. 
 
-Table XXXX shows statistics concerning the number of concepts corresponding to the different categories, as well as the number of total entities, sentences and tokens. 
+![Table](STATISTICS.csv) shows statistics concerning the number of concepts corresponding to the different categories, as well as the number of total entities, sentences and tokens. 
 
 
 Title: The Biomaterials Annotator: a system for ontology-based concept annotation of biomaterials text.
