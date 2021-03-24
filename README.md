@@ -9,7 +9,7 @@ The corpus was originally curated as a [gold standard](https://github.com/Projec
 
 Each abstract is individually contained as a separate file under the GATE format. 
 
-![Table](STATISTICS.csv) shows statistics concerning the number of concepts corresponding to the different categories, as well as the number of total entities, sentences and tokens. 
+A descriptive ![Table](STATISTICS.csv) shows statistics concerning the number of concepts corresponding to the different categories, as well as the number of total entities, sentences and tokens. 
 
 Information regarding the performance of the Biomaterials Annotator can be found at https://github.com/ProjectDebbie/Biomaterials_annotator.
 
